@@ -4,7 +4,7 @@
 
 **If you are Eric:**
 
-1. As frequently as possible, re-read your opinions.
+1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-opinions)(opinions).
 2. At the beginning of each month, read the whole thing and make any necessary edits. 
 3. At the beginning of each year, archive the document. This [2017] is the first.
 4. Around the new year every year, write a new yearly report. 
@@ -24,10 +24,10 @@
 
 #### Beliefs
 
-- [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
-- [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
-- [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
-- [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
+- [Type 1: Metabeliefs](#type-1-metabeliefs)
+- [Type 2: Perceptions](#type-2-perceptions)
+- [Type 3: Opinions](#type-3-opinions)
+- [Type 4: Predictions](#type-4-predictions)
 
 #### Personal Canon 
 
@@ -45,12 +45,10 @@
 ## Contextualization 
 
 ### What is this?
-I created Version 1.0 of this document on Jan 12, 2017. The inspiration came from [Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md) and much of the formatting has been heavily borrowed. I view this document as a 
+I created Version 1.0 of this document on [Jan 12, 2017]. The inspiration came from [Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md) and much of the formatting has been heavily borrowed. I view this document as a 
 
 ### Codex Vitae 
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
-
-Posts about this topic: [Codex Vitae](http://wayoftheduck.com/codex-vitae). 
 
 ## Beliefs
 
@@ -80,16 +78,14 @@ Science, politics, and the universe.
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
 
-#### 3A: Opinions - Shoulds
-How I believe I should approach life. These are all opt-in and apply only to myself.
+#### 3A: Opinions - Mantras
+Individual themes that guide my life
 
 #### 3B: Opinions: Society
 How I believe society should be structured.
 
 ### Type 4: Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
-
-#### 4: Predictions: By 2016
 
 #### 4. Predictions: By 2025
 
