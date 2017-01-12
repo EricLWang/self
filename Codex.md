@@ -1,7 +1,7 @@
 ## Codex Vitae
 
 
-### Instructions
+## Instructions
 
 
 #### If you are Eric: 
@@ -22,4 +22,12 @@
 
 4.
 
-### Table of Contents
+## Table of Contents
+
+## Beliefs
+
+## Glossary
+
+## Personal Canon 
+
+## Changelog
