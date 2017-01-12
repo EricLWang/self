@@ -40,6 +40,8 @@
 
 #### Changelog
 
+- [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
+
 ## Contextualization 
 
 ### What is this?
@@ -141,3 +143,5 @@ Experiences that have had a pivotal impact on my life.
 Stuff that I've written that means something to me.
 
 ## Changelog 
+
+* [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
