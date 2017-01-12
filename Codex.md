@@ -19,8 +19,27 @@
 
 #### Beliefs
 
+- [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
+- [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
+- [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
+- [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
+
 #### Glossary
+
+- [What is this?](#what-is-this)
+- [Codex vitae](#codex-vitae)
 
 #### Personal Canon 
 
+- [articles](#articles)
+- [books](#books)
+
 #### Changelog
+
+## Beliefs
+
+## Glossary 
+
+## Personal Canon
+
+## Changelog 
