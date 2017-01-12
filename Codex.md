@@ -1,19 +1,19 @@
 ## Codex Vitae
 
 
-## Instructions
+### Instructions
 
+**If you are Eric:**
 
-#### If you are Eric: 
 1.
 
 2.
 
 3.
 
-4.
+4. Around the new year every year, write a new yearly report
 
-#### If you aren't Eric: 
+**If you aren't Eric:**
 1.
 
 2.
@@ -24,10 +24,10 @@
 
 ## Table of Contents
 
-## Beliefs
+#### Beliefs
 
-## Glossary
+#### Glossary
 
-## Personal Canon 
+#### Personal Canon 
 
-## Changelog
+#### Changelog
