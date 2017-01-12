@@ -41,6 +41,11 @@
 
 ## Contextualization 
 
+### What is this?
+I created Version 1.0 of this document on Jan 12, 2017. The inspiration came from [Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md) and much of the formatting has been heavily borrowed. I view this document as a 
+
+### Codex Vitae 
+
 ## Beliefs
 
 ## Personal Canon
@@ -64,6 +69,15 @@ Each of these books has reconfigured how I view the world.
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?s=books&ie=UTF8&qid=1484234610&sr=1-1&keywords=deep+work) - Cal Newport
 * [Not Fade Away: A Short Life Well Lived](https://www.amazon.com/Not-Fade-Away-Short-Lived/dp/006073731X/ref=sr_1_1?s=books&ie=UTF8&qid=1484234667&sr=1-1&keywords=not+fade+away) - Laurence Shames and Peter Barton
 * [The Rise of Theodore Roosevelt](https://www.amazon.com/Theodore-Roosevelt-Modern-Library-Paperbacks/dp/0375756787/ref=sr_1_1?s=books&ie=UTF8&qid=1484234702&sr=1-1&keywords=the+rise+of+theodore+roosevelt) - Edmund Morris
+
+### Songs
+If a playlist could define a human being (which I believe they can), this one would be me. 
+
+* [715 - CR∑∑KS](https://www.youtube.com/watch?v=P_Fx1yq3A8M) - Bon Iver
+* [Innerbloom](https://www.youtube.com/watch?v=IA1liCmUsAM) - Rufus du Sol 
+* [No Less](https://www.youtube.com/watch?v=H0bfwEjdgQs) - SG Lewis
+* [Loud Places](https://www.youtube.com/watch?v=TP9luRtEqjc) - Jamie XX 
+* [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) - Frank Ocean 
 
 ### Experiences
 Experiences that have had a pivotal impact on my life.
