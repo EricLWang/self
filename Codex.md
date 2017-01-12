@@ -11,10 +11,9 @@
 
 **If you aren't Eric:**
 
-1.
-2.
-3.
-4.
+1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
+2. Read the Glossary for a general intro of my favorite ideas, then come back and read through the Beliefs that seem interesting to you. 
+3. Consider creating your own Codex. Use anything here that may be useful for you. 
 
 ## Table of Contents
 
