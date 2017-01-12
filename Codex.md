@@ -43,7 +43,10 @@
 ## Personal Canon
 
 ### Articles 
-Writing I've loved and come back to a bunch of times.
+Writing that has influenced how I think, act, live, or commmunicate. 
+
+* [Nihilist's Guide to Meaning](http://www.meltingasphalt.com/a-nihilists-guide-to-meaning/) (this doesn't mean I'm a Nihilist, but the ideas here resonate with me) 
+* [Breaking Smart Season 1](http://breakingsmart.com/en/season-1/) 
 
 ### Books 
 Each of these books has changed how I see the world.
