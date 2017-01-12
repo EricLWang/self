@@ -17,17 +17,17 @@
 
 ## Table of Contents
 
+#### Contextualization
+
+- [What is this?](#what-is-this)
+- [Codex vitae](#codex-vitae)
+
 #### Beliefs
 
 - [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
 - [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
 - [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
 - [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
-
-#### Glossary
-
-- [What is this?](#what-is-this)
-- [Codex vitae](#codex-vitae)
 
 #### Personal Canon 
 
@@ -36,10 +36,19 @@
 
 #### Changelog
 
+## Contextualization 
+
 ## Beliefs
 
-## Glossary 
-
 ## Personal Canon
+
+### Articles 
+Writing I've loved and come back to a bunch of times.
+
+### Books 
+Each of these books has changed how I see the world.
+
+### My writing
+Stuff that I've written that means something to me.
 
 ## Changelog 
