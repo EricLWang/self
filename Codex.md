@@ -4,15 +4,15 @@
 
 **If you are Eric:**
 
-1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-opinions)(opinions).
-2. At the beginning of each month, read the whole thing and make any necessary edits. 
+1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-opinions) (opinions).
+2. At the beginning of each month, read this whole thing and make any necessary edits. 
 3. At the beginning of each year, archive the document. This [2017] is the first.
 4. Around the new year every year, write a new yearly report. 
 
 **If you aren't Eric:**
 
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
-2. Read the [Contextualization](#contextualization) for a general intro of my favorite ideas, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
+2. Read the [Contextualization](#contextualization) for a general introduction to the purpose of this document and exercise, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
 
 ## Table of Contents
@@ -45,9 +45,11 @@
 ## Contextualization 
 
 ### What is this?
-I created Version 1.0 of this document on [Jan 12, 2017]. The inspiration came from [Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md) and much of the formatting has been heavily borrowed. I view this document as a 
+I created Version 1.0 of this document on [Jan 12, 2017]. The inspiration came from [Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md) and much of the formatting and wording has been heavily borrowed, on account of it being thoughtful and on the mark. I view this document as a medium through which to deepen self awareness, practice authenticity, foster personal connection, and leverage public accountability. 
 
 ### Codex Vitae 
+The Codex Vitae (Book of Life) represents the sum of knowledge that an individual has accumulated in his or her life. 
+
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
 
 ## Beliefs
@@ -136,7 +138,7 @@ Experiences that have had a pivotal impact on my life.
 * Living @ 2646 Menlo with 10 Brothers
 
 ### My writing
-Stuff that I've written that means something to me.
+Stuff that I've written that means something to me. Embarrassingly enough, this section is currently empty in deliberate hopes that this scenario will incentivize me to change that. TBD. 
 
 ## Changelog 
 
