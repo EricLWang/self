@@ -11,7 +11,7 @@
 **If you aren't Eric:**
 
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
-2. Read the [Contextualization](#contextualization) for a general introduction to the purpose of this document and exercise, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
+2. Read the [Contextualization](#contextualization) for a general introduction to the purpose of this document/exercise, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
 4. Reach out to discuss! [Email](mailto:ericlwang94@gmail.com) [Facebook](https://www.facebook.com/EricLorenWang)
 
@@ -54,10 +54,10 @@ The Codex Vitae (Book of Life) represents the sum of knowledge that an individua
 ### Type 1: Metabeliefs
 My beliefs about beliefs.
 
-- The purpose of this document is to explicitly capture my beliefs, allowing to deepen my awareness and understanding of myself and the [perceived] world around me 
+- The purpose of this document is to explicitly capture my beliefs, allowing me to deepen my awareness and understanding of myself and the [perceived] world around me 
 - Beliefs should be held with the utmost conviction, but also with an open-mindedness that permits change [Strong opinions, weakly held] 
 - Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
-- Sharing this document [passively] is a facilitator for genuine connection. 
+- Sharing this document [passively] is a great facilitator for genuine connection. 
 - Maintaining this document is a rewarding introspective endeavor.
 - This document is always incomplete and out of da -.
 
@@ -67,9 +67,13 @@ My beliefs on the big picture and the abstract. 2A is about senses and biases, 2
 #### 2A E&R: Senses
 Personal constraints and biases.
 
-* [False Consensus](https://en.wikipedia.org/wiki/False_consensus_effect) is particularly dangerous as an underminer of compassion and complexity. 
-* Any characteristic of a human being is malleable 
+* Any non-physical characteristic of a human being is malleable (and most physical ones are too). 
+* Our minds and lives are run by stories, those we tell ourselves and those we hear from others. 
+* We are constantly adding to incomplete models. 
+* These incomplete models are treated internally as complete, which is as it should be. Healthy exploration of the incompleteness of our models is evidence of rigorous thinking, but too much can be paralyzing and anxiety-inducing. 
 * Free will is an illusion, but it doesn't really matter anyways. 
+* Nontrivial behavior change is drastically easier when the external environment is changed. 
+* [False Consensus](https://en.wikipedia.org/wiki/False_consensus_effect) is particularly dangerous as an underminer of compassion and complexity. 
 * We will die. 
 
 #### 2B E&R: Supersenses
