@@ -25,8 +25,8 @@
 #### Beliefs
 
 - [Type 1: Metabeliefs](#type-1-metabeliefs)
-- [Type 2: Perceptions](#type-2-perceptions)
-- [Type 3: Opinions](#type-3-opinions)
+- [Type 2: Existence & Reality](#type-2-existence-&-reality)
+- [Type 3: Individuals & Systems](#type-3-individuals-&-systems)
 - [Type 4: Predictions](#type-4-predictions)
 
 #### Personal Canon 
@@ -65,25 +65,25 @@ Beliefs about beliefs.
 - I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs, i.e. this one), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
 - Making and maintaining this document is useful and fun. And increasingly rewarding over time. 
 
-### Type 2: Perceptions 
+### Type 2: Existence and Reality 
 How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world can be best explained based on the information I have.
 
-#### 2A Perceptions: Senses
+#### 2A Existence and Reality: Senses
 Personal mental and physical abilities, constraints, and biases.
 
-#### 2B Perceptions: Supersenses
+#### 2B Existence and Reality: Supersenses
 My take on the spiritual and supernatural.
 
-#### 2C Perceptions: Explanatory
+#### 2C Existence and Reality: Explanatory
 Science, politics, and the universe.
 
-### Type 3: Opinions
+### Type 3: Individuals and Systems
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
 
-#### 3A: Opinions - Mantras
+#### 3A: Individuals and Systems - Mantras
 Individual themes that guide my life
 
-#### 3B: Opinions: Society
+#### 3B: Individuals and Systems: Society
 How I believe society should be structured.
 
 ### Type 4: Predictions
@@ -136,6 +136,14 @@ Experiences that have had a pivotal impact on my life.
 * [Spark SC](http://sparksc.org/)
 * [THTR 122: Improvisation and Theatre Games with Eric Trules at USC](https://classes.usc.edu/term-20161/course/thtr-122/)
 * Living @ 2646 Menlo with 10 Brothers
+
+### Goals
+I don't currently believe in setting rigid long term goals, but here is a list of things I hope to transfer to the section above
+
+* [  ] Publish a book
+* [  ] Live in Tokyo for at least 2 months
+* [  ] Climb Mt. Kilimanjaro 
+
 
 ### My writing
 Stuff that I've written that means something to me. Embarrassingly enough, this section is currently empty in deliberate hopes that this scenario will incentivize me to change that. TBD. 
