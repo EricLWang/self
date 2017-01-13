@@ -87,14 +87,12 @@ Science, politics, and the universe.
 ### Type 3: Individuals and Systems
 Beliefs that inform how I strive to live my life and how we should collectively strive as a society. 3A is me, 3B is we. 
 
-* I should always strive for Quality in work or play. 
-* It is impossible for me to ever occupy any moment but the present. 
-* A powerful and underrated tool is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it. 
-
 #### 3A: I&S - Me
 Individual themes that guide my life.
 
-
+* Strive for Quality in work or play. 
+* Realize it is impossible to ever occupy any moment but the present. 
+* Give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it. 
 
 #### 3B: I&S: We
 How I believe society should be structured.
