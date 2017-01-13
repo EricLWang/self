@@ -114,7 +114,7 @@ Individual themes that guide my life.
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
 * Take your time and work hard. Don't take shortcuts. 
 
-#### 3B: I&S: We
+#### 3B: I&S - We
 How I believe society should be structured.
 
 * Gay marriage should be legal everywhere.
@@ -145,15 +145,22 @@ Each of these books has reconfigured how I view the world.
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?s=books&ie=UTF8&qid=1484234610&sr=1-1&keywords=deep+work) - Cal Newport
 * [Not Fade Away: A Short Life Well Lived](https://www.amazon.com/Not-Fade-Away-Short-Lived/dp/006073731X/ref=sr_1_1?s=books&ie=UTF8&qid=1484234667&sr=1-1&keywords=not+fade+away) - Laurence Shames and Peter Barton
 * [The Rise of Theodore Roosevelt](https://www.amazon.com/Theodore-Roosevelt-Modern-Library-Paperbacks/dp/0375756787/ref=sr_1_1?s=books&ie=UTF8&qid=1484234702&sr=1-1&keywords=the+rise+of+theodore+roosevelt) - Edmund Morris
+* [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202/ref=sr_1_1?ie=UTF8&qid=1484313978&sr=8-1&keywords=flow) - Mihaly Csikszentmihalyi
+* [The Zen Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469/ref=sr_1_1?ie=UTF8&qid=1484314028&sr=8-1&keywords=the+zen+art+of+motorcycle+maintenance) - Robert M. Pirsig
 
 ### Music
 If a playlist could define a human being (which I believe they can), this one would be me. 
 
+* [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) - Frank Ocean 
 * [715 - CR∑∑KS](https://www.youtube.com/watch?v=P_Fx1yq3A8M) - Bon Iver
 * [Innerbloom](https://www.youtube.com/watch?v=IA1liCmUsAM) - Rufus du Sol 
+* [Without You](https://www.youtube.com/watch?v=zLAhRiUeJ8E) - Oh Wonder
+* [Family Business](https://open.spotify.com/track/6wFxUq7Gr44N3uwLjVQRR0) - Kanye West
+* [Ocean Drive](https://www.youtube.com/watch?v=KDxJlW6cxRk) - Duke Dumont 
 * [No Less](https://www.youtube.com/watch?v=H0bfwEjdgQs) - SG Lewis
 * [Loud Places](https://www.youtube.com/watch?v=TP9luRtEqjc) - Jamie XX 
-* [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) - Frank Ocean 
+* [Sad Machine](https://www.youtube.com/watch?v=HAIDqt2aUek) - Porter Robinson
+* [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) - Frank Ocean
 
 ### Experiences
 Experiences that have had a pivotal impact on my life.
