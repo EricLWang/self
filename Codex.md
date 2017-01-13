@@ -13,7 +13,7 @@
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
 2. Read the [Contextualization](#contextualization) for a general introduction to the purpose of this document and exercise, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
-4. Reach out to discuss! [Email](ericlwang94@gmail.com) [Facebook](https://www.facebook.com/EricLorenWang)
+4. Reach out to discuss! [Email](mailto:ericlwang94@gmail.com) [Facebook](https://www.facebook.com/EricLorenWang)
 
 ## Table of Contents
 
@@ -55,15 +55,14 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 ## Beliefs
 
 ### Type 1: Metabeliefs
-Beliefs about beliefs.
+My beliefs about beliefs.
 
-- This document's purpose is to capture my beliefs about the universe. 
-- This document's benefits grow in a compound interest kind of way, over time, as beliefs course correct over time, and build on one another.
-- It's always incomplete and out of date. 
+- The purpose of this document is to explicitly capture my beliefs, allowing to deepen my awareness and understanding of myself and the [perceived] world around me 
+- Beliefs should be held with the utmost conviction, but also with an open-mindedness that permits change [Strong opinions, weakly held] 
 - Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
-- I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
-- I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs, i.e. this one), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
-- Making and maintaining this document is useful and fun. And increasingly rewarding over time. 
+- Sharing this document [passively] is a facilitator for genuine connection. 
+- Maintaining this document is a rewarding introspective endeavor.
+- This document is always incomplete and out of da -.
 
 ### Type 2: Existence and Reality 
 How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world can be best explained based on the information I have.
