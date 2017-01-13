@@ -59,6 +59,7 @@ My beliefs about beliefs.
 - Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
 - Sharing this document [passively] is a great facilitator for genuine connection. 
 - Maintaining this document is a rewarding introspective endeavor.
+- Externally recording my rules and beliefs frees up mental bandwidth. 
 - This document is always incomplete and out of da -.
 
 ### Type 2: Existence and Reality 
@@ -170,12 +171,15 @@ Experiences that have had a pivotal impact on my life.
 * Living @ 2646 Menlo with 10 Brothers
 
 ### Goals
-I don't currently believe in setting rigid long term goals, but here is a list of things I hope to transfer to the section above
+I don't currently believe in setting rigid long term goals, but here is a list of things I hope to transfer to Experiences. 
 
 * [  ] Publish a book
 * [  ] Live in Tokyo for at least 2 months
 * [  ] Climb Mt. Kilimanjaro 
-
+* [  ] Give a TED talk. Topic TBD.
+* [  ] Run a marathon
+* [  ] Complete a triathlon 
+* [  ] Get my pilot's license 
 
 ### My writing
 Stuff that I've written that means something to me. Embarrassingly enough, this section is currently empty in deliberate hopes that this scenario will incentivize me to change that. TBD. 
