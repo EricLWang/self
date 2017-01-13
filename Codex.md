@@ -6,7 +6,7 @@
 
 1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-individuals-and-systems) (individuals and systems).
 2. At the beginning of each month, read this whole thing and make any necessary edits. 
-3. At the beginning of each year, archive the document. This [2017] is the first.
+3. At the beginning of each year, archive the document. This **[2017]** is the first.
 
 **If you aren't Eric:**
 
@@ -55,9 +55,9 @@ The Codex Vitae (Book of Life) represents the sum of knowledge that an individua
 My beliefs about beliefs.
 
 - The purpose of this document is to explicitly capture my beliefs, allowing me to deepen my awareness and understanding of myself and the [perceived] world around me 
-- Beliefs should be held with the utmost conviction, but also with an open-mindedness that permits change [Strong opinions, weakly held] 
+- Beliefs should be held with the utmost conviction, but also with an open-mindedness that permits change **[Strong opinions, weakly held]** 
 - Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
-- Sharing this document [passively] is a great facilitator for genuine connection. 
+- Sharing this document *[passively]* is a great facilitator for genuine connection. 
 - Maintaining this document is a rewarding introspective endeavor.
 - Externally recording my rules and beliefs frees up mental bandwidth. 
 - This document is always incomplete and out of da -.
@@ -68,7 +68,7 @@ My beliefs on the big picture and the abstract. 2A is about senses and biases, 2
 #### 2A E&R: Senses
 Personal constraints and biases.
 
-* Any non-physical characteristic of a human being is malleable (and most physical ones are too). 
+* Any non-physical characteristic of a human being is **malleable** (and most physical ones are too). 
 * Our minds and lives are run by stories, those we tell ourselves and those we hear from others. 
 * We are constantly adding to incomplete models. 
 * These incomplete models are treated internally as complete, which is as it should be. Healthy exploration of the incompleteness of our models is evidence of rigorous thinking, but too much can be paralyzing and anxiety-inducing. 
@@ -80,7 +80,7 @@ Personal constraints and biases.
 #### 2B E&R: Supersenses
 Thoughts regarding spirituality. 
 
-* Meaning is created subjectively, not found objectively. 
+* Meaning is *created* subjectively, not *found* objectively. 
 * Frequently remembering we will die increases the quality of our life. 
 * God as in the capital "G" entity from organized religion does not exist, but some other kind of higher power does. 
 * Life is ultimately experienced alone. 
@@ -103,17 +103,17 @@ Individual themes that guide my life.
 
 * Music is an essential part of the human life.
 * Your word is your external value. Deploy it meticulously and give it earnestly. 
-* Strive for Quality in work or play. 
+* Strive for **Quality** in work or play. 
 * It is impossible to ever occupy any moment but the present. 
 * Maximizing the number and duration of flow states in life is a desirible and important goal. 
 * The physical world around you is always better than the virtual one in your pocket. 
-* Productivity/Effectiveness = Time * Intensity. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
-* If viewing your relationships as a graph, the sum of [# of edges * weight] of that graph is a strong indicator for happiness and fulfillment, and should be prioritized. 
+* Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
+* If viewing your relationships as a graph, the sum of **[# of edges * weight]** of that graph is a strong indicator for happiness and fulfillment, and should be prioritized. 
 * Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
 * Accountability is strongest in pairs
 * Excercise is crucial for the mind. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
-* Take your time and work hard. Don't take shortcuts. 
+* Take your time and work hard. **Don't take shortcuts**. 
 
 #### 3B: I&S - We
 How I believe society should be structured.
