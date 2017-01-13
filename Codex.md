@@ -64,17 +64,19 @@ My beliefs about beliefs.
 - This document is always incomplete and out of da -.
 
 ### Type 2: Existence and Reality 
-My beliefs on the big picture and the abstract. 2A is about our senses and biases, 2B about spiritual matters, and 2C about the world around us. 
+My beliefs on the big picture and the abstract. 2A is about senses and biases, 2B about spiritual matters, and 2C about the world around us. 
 
 #### 2A E&R: Senses
 Personal constraints and biases.
 
 * Free will is an illusion, but it doesn't really matter anyways. 
+* We will die. 
 
 #### 2B E&R: Supersenses
 Spiritual thoughts. 
 
 * Meaning is created, not found. 
+* Frequently remembering we will die increases the quality of our life. 
 * God as in capital "G" from organized religion does not exist, but some other kind of higher power does. 
 * Life is ultimately experienced alone. 
 * "We're talking monkeys on an organic spaceship flying through the universe" - Joe Rogan 
@@ -82,7 +84,9 @@ Spiritual thoughts.
 #### 2C E&R: Explanatory
 Science, politics, and the universe.
 
+* Multiple dimensions and universes exist. 
 * Overpopulation is mankind's most pressing and challenging problem. 
+* Time is only a useful concept to prevent from being late to appointments. 
 
 ### Type 3: Individuals and Systems
 Beliefs that inform how I strive to live my life and how we should collectively strive as a society. 3A is me, 3B is we. 
@@ -90,12 +94,24 @@ Beliefs that inform how I strive to live my life and how we should collectively 
 #### 3A: I&S - Me
 Individual themes that guide my life.
 
+* Productivity/Effectiveness = Time * Intensity. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
+* Maximizing the number and duration of flow states in life is a desirible and important goal. 
+* Music is an essential part of the human life. 
+* The physical world around you is always better than the virtual one in your pocket. 
 * Strive for Quality in work or play. 
-* Realize it is impossible to ever occupy any moment but the present. 
-* Give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it. 
+* Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good].
+* It is impossible to ever occupy any moment but the present. 
+* Give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
+* Accountability is strongest in pairs
+* Excercise is crucial for the mind. 
 
 #### 3B: I&S: We
 How I believe society should be structured.
+
+* Gay marriage should be legal everywhere.
+* Abortion should be legal everywhere. 
+* Marijuana should be legal everywhere. 
+* Free college education should be available to all who want it. 
 
 ## Personal Canon
 
