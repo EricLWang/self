@@ -106,6 +106,7 @@ Individual themes that guide my life.
 * Strive for **Quality** in work or play. 
 * It is impossible to ever occupy any moment but the present. 
 * Maximizing the number and duration of flow states in life is a desirible and important goal. 
+* Drive towards productive friction. This is where growth is found. 
 * The physical world around you is always better than the virtual one in your pocket. 
 * Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
 * If viewing your relationships as a graph, the sum of **[# of edges * weight]** of that graph is a strong indicator for happiness and fulfillment, and should be prioritized. 
