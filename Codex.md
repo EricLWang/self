@@ -1,4 +1,4 @@
-## Codex Vitae
+## Codex Vitae [1.0] 
 
 ### Instructions
 
@@ -27,7 +27,6 @@
 - [Type 1: Metabeliefs](#type-1-metabeliefs)
 - [Type 2: Existence & Reality](#type-2-existence-and-reality)
 - [Type 3: Individuals & Systems](#type-3-individuals-and-systems)
-- [Type 4: Predictions](#type-4-predictions)
 
 #### Personal Canon 
 
@@ -65,38 +64,40 @@ My beliefs about beliefs.
 - This document is always incomplete and out of da -.
 
 ### Type 2: Existence and Reality 
-How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world can be best explained based on the information I have.
+My beliefs on the big picture and the abstract. 2A is about our senses and biases, 2B about spiritual matters, and 2C about the world around us. 
 
 #### 2A E&R: Senses
-Personal mental and physical abilities, constraints, and biases.
+Personal constraints and biases.
+
+* Free will is an illusion, but it doesn't really matter anyways. 
 
 #### 2B E&R: Supersenses
-My take on the spiritual and supernatural.
+Spiritual thoughts. 
+
+* Meaning is created, not found. 
+* God as in capital "G" from organized religion does not exist, but some other kind of higher power does. 
+* Life is ultimately experienced alone. 
+* "We're talking monkeys on an organic spaceship flying through the universe" - Joe Rogan 
 
 #### 2C E&R: Explanatory
 Science, politics, and the universe.
 
-### Type 3: Individuals and Systems
-Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
+* Overpopulation is mankind's most pressing and challenging problem. 
 
-#### 3A: I&S - Mantras
+### Type 3: Individuals and Systems
+Beliefs that inform how I strive to live my life and how we should collectively strive as a society. 3A is me, 3B is we. 
+
+* I should always strive for Quality in work or play. 
+* It is impossible for me to ever occupy any moment but the present. 
+* A powerful and underrated tool is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it. 
+
+#### 3A: I&S - Me
 Individual themes that guide my life.
 
-#### 3B: I&S: Society
+
+
+#### 3B: I&S: We
 How I believe society should be structured.
-
-### Type 4: Predictions
-How I think things will be in the future, based on the approximate year I think they’ll come true.
-
-#### 4. Predictions: By 2025
-
-#### 4: Predictions: By 2030
-
-#### 4: Predictions: By 2050
-
-#### 4: Predictions: By 2100
-
-#### 4: Predictions: By 2200
 
 ## Personal Canon
 
