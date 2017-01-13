@@ -47,9 +47,7 @@
 I created Version 1.0 of this document on [Jan 12, 2017]. The inspiration came from [Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md) and much of the formatting and wording has been heavily borrowed, on account of it being thoughtful and on the mark. I view this document as a medium through which to deepen self awareness, practice authenticity, foster personal connection, and leverage public accountability. 
 
 ### Codex Vitae 
-The Codex Vitae (Book of Life) represents the sum of knowledge that an individual has accumulated in his or her life. 
-
-This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
+The Codex Vitae (Book of Life) represents the sum of knowledge that an individual has accumulated in his or her life. Idea originally found in [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751) by Robin Sloan. 
 
 ## Beliefs
 
@@ -69,6 +67,8 @@ My beliefs on the big picture and the abstract. 2A is about senses and biases, 2
 #### 2A E&R: Senses
 Personal constraints and biases.
 
+* [False Consensus](https://en.wikipedia.org/wiki/False_consensus_effect) is particularly dangerous as an underminer of compassion and complexity. 
+* Any characteristic of a human being is malleable 
 * Free will is an illusion, but it doesn't really matter anyways. 
 * We will die. 
 
@@ -79,6 +79,7 @@ Spiritual thoughts.
 * Frequently remembering we will die increases the quality of our life. 
 * God as in capital "G" from organized religion does not exist, but some other kind of higher power does. 
 * Life is ultimately experienced alone. 
+* There are no coincidences - everything happens for a reason. 
 * "We're talking monkeys on an organic spaceship flying through the universe" - Joe Rogan 
 
 #### 2C E&R: Explanatory
@@ -112,6 +113,7 @@ How I believe society should be structured.
 * Abortion should be legal everywhere. 
 * Marijuana should be legal everywhere. 
 * Free college education should be available to all who want it. 
+* The instinctive reaction towards the homeless should be compassion, not fear. 
 
 ## Personal Canon
 
