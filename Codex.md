@@ -77,11 +77,11 @@ Personal constraints and biases.
 * We will die. 
 
 #### 2B E&R: Supersenses
-Spiritual thoughts. 
+Thoughts regarding spirituality. 
 
-* Meaning is created, not found. 
+* Meaning is created subjectively, not found objectively. 
 * Frequently remembering we will die increases the quality of our life. 
-* God as in capital "G" from organized religion does not exist, but some other kind of higher power does. 
+* God as in the capital "G" entity from organized religion does not exist, but some other kind of higher power does. 
 * Life is ultimately experienced alone. 
 * There are no coincidences - everything happens for a reason. 
 * "We're talking monkeys on an organic spaceship flying through the universe" - Joe Rogan 
@@ -89,26 +89,30 @@ Spiritual thoughts.
 #### 2C E&R: Explanatory
 Science, politics, and the universe.
 
+* Time is only a useful concept to prevent from being late to appointments. 
 * Multiple dimensions and universes exist. 
 * Overpopulation is mankind's most pressing and challenging problem. 
-* Time is only a useful concept to prevent from being late to appointments. 
+* Aliens exist, and already know that we do too. 
 
 ### Type 3: Individuals and Systems
-Beliefs that inform how I strive to live my life and how we should collectively strive as a society. 3A is me, 3B is we. 
+Beliefs that inform how I strive to live my life and how we should collectively strive to live as a society. 3A is me, 3B is we. 
 
 #### 3A: I&S - Me
 Individual themes that guide my life.
 
-* Productivity/Effectiveness = Time * Intensity. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
-* Maximizing the number and duration of flow states in life is a desirible and important goal. 
-* Music is an essential part of the human life. 
-* The physical world around you is always better than the virtual one in your pocket. 
+* Music is an essential part of the human life.
+* Your word is your external value. Deploy it meticulously and give it earnestly. 
 * Strive for Quality in work or play. 
-* Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good].
 * It is impossible to ever occupy any moment but the present. 
-* Give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
+* Maximizing the number and duration of flow states in life is a desirible and important goal. 
+* The physical world around you is always better than the virtual one in your pocket. 
+* Productivity/Effectiveness = Time * Intensity. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
+* If viewing your relationships as a graph, the sum of [# of edges * weight] of that graph is a strong indicator for happiness and fulfillment, and should be prioritized. 
+* Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
 * Accountability is strongest in pairs
 * Excercise is crucial for the mind. 
+* One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
+* Take your time and work hard. Don't take shortcuts. 
 
 #### 3B: I&S: We
 How I believe society should be structured.
@@ -117,7 +121,8 @@ How I believe society should be structured.
 * Abortion should be legal everywhere. 
 * Marijuana should be legal everywhere. 
 * Free college education should be available to all who want it. 
-* The instinctive reaction towards the homeless should be compassion, not fear. 
+* The instinctive reaction towards the homeless should be compassion, not fear.
+* We should all practice asking better questions. Small talk is lazy. 
 
 ## Personal Canon
 
@@ -171,3 +176,5 @@ Stuff that I've written that means something to me. Embarrassingly enough, this 
 ## Changelog 
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
+
+[Last modified Jan 13, 2017]
