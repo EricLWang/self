@@ -7,13 +7,13 @@
 1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-individuals-and-systems) (individuals and systems).
 2. At the beginning of each month, read this whole thing and make any necessary edits. 
 3. At the beginning of each year, archive the document. This [2017] is the first.
-4. Around the new year every year, write a new yearly report. 
 
 **If you aren't Eric:**
 
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
 2. Read the [Contextualization](#contextualization) for a general introduction to the purpose of this document and exercise, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
+4. Reach out to discuss! [Email](ericlwang94@gmail.com) [Facebook](https://www.facebook.com/EricLorenWang)
 
 ## Table of Contents
 
