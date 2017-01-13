@@ -4,7 +4,7 @@
 
 **If you are Eric:**
 
-1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-opinions) (opinions).
+1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-individuals-and-systems) (individuals and systems).
 2. At the beginning of each month, read this whole thing and make any necessary edits. 
 3. At the beginning of each year, archive the document. This [2017] is the first.
 4. Around the new year every year, write a new yearly report. 
@@ -25,8 +25,8 @@
 #### Beliefs
 
 - [Type 1: Metabeliefs](#type-1-metabeliefs)
-- [Type 2: Existence & Reality](#type-2-existence-&-reality)
-- [Type 3: Individuals & Systems](#type-3-individuals-&-systems)
+- [Type 2: Existence & Reality](#type-2-existence-and-reality)
+- [Type 3: Individuals & Systems](#type-3-individuals-and-systems)
 - [Type 4: Predictions](#type-4-predictions)
 
 #### Personal Canon 
@@ -68,22 +68,22 @@ Beliefs about beliefs.
 ### Type 2: Existence and Reality 
 How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world can be best explained based on the information I have.
 
-#### 2A Existence and Reality: Senses
+#### 2A E&R: Senses
 Personal mental and physical abilities, constraints, and biases.
 
-#### 2B Existence and Reality: Supersenses
+#### 2B E&R: Supersenses
 My take on the spiritual and supernatural.
 
-#### 2C Existence and Reality: Explanatory
+#### 2C E&R: Explanatory
 Science, politics, and the universe.
 
 ### Type 3: Individuals and Systems
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
 
-#### 3A: Individuals and Systems - Mantras
-Individual themes that guide my life
+#### 3A: I&S - Mantras
+Individual themes that guide my life.
 
-#### 3B: Individuals and Systems: Society
+#### 3B: I&S: Society
 How I believe society should be structured.
 
 ### Type 4: Predictions
