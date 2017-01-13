@@ -115,6 +115,7 @@ Individual themes that guide my life.
 * Excercise is crucial for the mind. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
 * Take your time and work hard. **Don't take shortcuts**. 
+* Be Epic. 
 
 #### 3B: I&S - We
 How I believe society should be structured.
