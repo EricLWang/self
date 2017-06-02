@@ -1,4 +1,4 @@
-## Codex Vitae [1.0] 
+## Codex Vitae [1.1] 
 
 ### Instructions
 
@@ -13,7 +13,7 @@
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
 2. Read the [Contextualization](#contextualization) for a general introduction to the purpose of this document/exercise, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
-4. Reach out to discuss! [Email](mailto:ericlwang94@gmail.com) [Facebook](https://www.facebook.com/EricLorenWang)
+4. Reach out! [Email](mailto:ericlwang94@gmail.com) [Facebook](https://www.facebook.com/EricLorenWang)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@
 ## Contextualization 
 
 ### What is this?
-I created Version 1.0 of this document on [Jan 12, 2017]. The inspiration came from [Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md) and much of the formatting and wording has been heavily borrowed, on account of it being thoughtful and on the mark. I view this document as a medium through which to deepen self awareness, practice authenticity, foster personal connection, and leverage public accountability. 
+I created Version 1.0 of this document on [Jan 12, 2017]. The inspiration came from [Buster Benson](https://buster.gitbooks.io/public/) and much of the formatting and wording has been heavily borrowed, on account of it being thoughtful and on the mark. I view this document as a medium through which to deepen self awareness, practice authenticity, foster personal connection, and leverage public accountability. 
 
 ### Codex Vitae 
 The Codex Vitae (Book of Life) represents the sum of knowledge that an individual has accumulated in his or her life. Idea originally found in [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751) by Robin Sloan. 
@@ -60,6 +60,8 @@ My beliefs about beliefs.
 - Sharing this document *[passively]* is a great facilitator for genuine connection. 
 - Maintaining this document is a rewarding introspective endeavor.
 - Externally recording my rules and beliefs frees up mental bandwidth. 
+- Some beliefs are organically "synthesized" without much conscious thought or choice, others are deliberately created and self-indoctrinated
+- We have some degree of control over the ratio of the two aforementioned types of beliefs, and should exercise it to the fullest extent. 
 - This document is always incomplete and out of da -.
 
 ### Type 2: Existence and Reality 
@@ -75,6 +77,7 @@ Personal constraints and biases.
 * Free will is an illusion, but it doesn't really matter anyways. 
 * Nontrivial behavior change is drastically easier when the external environment is changed. 
 * [False Consensus](https://en.wikipedia.org/wiki/False_consensus_effect) is particularly dangerous as an underminer of compassion and complexity. 
+* Enjoying your life is a choice. 
 * We will die. 
 
 #### 2B E&R: Supersenses
@@ -85,6 +88,7 @@ Thoughts regarding spirituality.
 * God as in the capital "G" entity from organized religion does not exist, but some other kind of higher power does. 
 * Life is ultimately experienced alone. 
 * There are no coincidences - everything happens for a reason. 
+* Thought an intensely complex experience/machine, life is ultimately an input-output machine, with drastically varying output horizon lengths. 
 * "We're talking monkeys on an organic spaceship flying through the universe" - Joe Rogan 
 
 #### 2C E&R: Explanatory
@@ -101,7 +105,7 @@ Beliefs that inform how I strive to live my life and how we should collectively 
 #### 3A: I&S - Me
 Individual themes that guide my life.
 
-* Music is an essential part of the human life.
+* Music is an essential part of the human experience.
 * Your word is your external value. Deploy it meticulously and give it earnestly. 
 * Strive for **Quality** in work or play. 
 * It is impossible to ever occupy any moment but the present. 
@@ -110,11 +114,17 @@ Individual themes that guide my life.
 * The physical world around you is always better than the virtual one in your pocket. 
 * Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
 * If viewing your relationships as a graph, the sum of **[# of edges * weight]** of that graph is a strong indicator for happiness and fulfillment, and should be prioritized. 
+* A true friendship cannot be forged without conflict.
+* Similarly, life only has the potential to be awesome and incredible if it is also sometimes shitty and horrible. 
 * Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
 * Accountability is strongest in pairs
-* Excercise is crucial for the mind. 
+* Excercise is crucial for the mind and spirit. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
 * Take your time and work hard. **Don't take shortcuts**. 
+* Success is working hard / learning fast / treating people right. 
+* The best way to find happiness and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
+* Step up and be **instigator in a positive world**. 
+* The people in your life are first, last, and everything in between, in different forms. 
 * Be Epic. 
 
 #### 3B: I&S - We
@@ -126,6 +136,7 @@ How I believe society should be structured.
 * Free college education should be available to all who want it. 
 * The instinctive reaction towards the homeless should be compassion, not fear.
 * We should all practice asking better questions. Small talk is lazy. 
+* People should show love, appreciation, and gratitude more frequently, and more intensely.
 
 ## Personal Canon
 
@@ -134,6 +145,7 @@ Writing that has influenced how I think, act, live, or commmunicate.
 
 * [Nihilist's Guide to Meaning](http://www.meltingasphalt.com/a-nihilists-guide-to-meaning/) (this doesn't mean I'm a Nihilist, but the ideas here resonate with me) 
 * [Breaking Smart Season 1](http://breakingsmart.com/en/season-1/) 
+* [The Tail End - Tim Urban](http://waitbutwhy.com/2015/12/the-tail-end.html) 
 
 ### Videos
 Videos that have provoked thought, uplifted, or otherwise inspired me in some way. 
@@ -164,6 +176,7 @@ If a playlist could define a human being (which I believe they can), this one wo
 * [Loud Places](https://www.youtube.com/watch?v=TP9luRtEqjc) - Jamie XX 
 * [Sad Machine](https://www.youtube.com/watch?v=HAIDqt2aUek) - Porter Robinson
 * [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) - Frank Ocean
+* [On The Beach](https://open.spotify.com/track/0psrSwsDcH2R2xzMSO4wxo) - Nora En Pure
 
 ### Experiences
 Experiences that have had a pivotal impact on my life.
@@ -171,6 +184,7 @@ Experiences that have had a pivotal impact on my life.
 * [Spark SC](http://sparksc.org/)
 * [THTR 122: Improvisation and Theatre Games with Eric Trules at USC](https://classes.usc.edu/term-20161/course/thtr-122/)
 * Living @ 2646 Menlo with 10 Brothers
+* [Lightning In A Bottle](http://lightninginabottle.org/)
 
 ### Goals
 I don't currently believe in setting rigid long term goals, but here is a list of things I hope to transfer to Experiences. 
@@ -178,10 +192,18 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] Publish a book
 * [  ] Live in Tokyo for at least 2 months
 * [  ] Climb Mt. Kilimanjaro 
+* [  ] Climb K2
+* [  ] Hike Patagonia 
+* [  ] Attend a World Series game
+* [  ] Attend an NBA Finals game 
+* [  ] Burning Man
 * [  ] Give a TED talk. Topic TBD.
 * [  ] Run a marathon
 * [  ] Complete a triathlon 
 * [  ] Get my pilot's license 
+* [  ] Learn to Sail 
+* [  ] Learn to Mix Music
+* [  ] Build a Treehouse
 
 ### My writing
 Stuff that I've written that means something to me. Embarrassingly enough, this section is currently empty in deliberate hopes that this scenario will incentivize me to change that. TBD. 
@@ -190,4 +212,4 @@ Stuff that I've written that means something to me. Embarrassingly enough, this 
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified Jan 13, 2017]
+[Last modified June 2, 2017]
