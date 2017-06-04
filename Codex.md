@@ -121,6 +121,7 @@ Individual themes that guide my life.
 * Excercise is crucial for the mind and spirit. 
 * Who your are, your character, is not the person you are in those "special" or "extraordinary" moments. Who you are is who you are in the most mundane parts of your life, when you're not even thinking. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
+* As soon as you think you're mentally / emotionally / spiritually ready for an experience that you think could have a transformative impact on your life, do it ASAP. 
 * Take your time and work hard. **Don't take shortcuts**. 
 * Success is working hard / learning fast / treating people right. 
 * The best way to find happiness and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
