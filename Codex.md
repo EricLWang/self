@@ -1,4 +1,4 @@
-## Codex Vitae [1.1] 
+## Codex Vitae [1.2] 
 
 ### Instructions
 
@@ -119,6 +119,7 @@ Individual themes that guide my life.
 * Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
 * Accountability is strongest in pairs
 * Excercise is crucial for the mind and spirit. 
+* Who your are, your character, is not the person you are in those "special" or "extraordinary" moments. Who you are is who you are in the most mundane parts of your life, when you're not even thinking. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
 * Take your time and work hard. **Don't take shortcuts**. 
 * Success is working hard / learning fast / treating people right. 
