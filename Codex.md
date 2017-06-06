@@ -148,6 +148,8 @@ Writing that has influenced how I think, act, live, or commmunicate.
 * [Nihilist's Guide to Meaning](http://www.meltingasphalt.com/a-nihilists-guide-to-meaning/) (this doesn't mean I'm a Nihilist, but the ideas here resonate with me) 
 * [Breaking Smart Season 1](http://breakingsmart.com/en/season-1/) 
 * [The Tail End - Tim Urban](http://waitbutwhy.com/2015/12/the-tail-end.html) 
+* [The 25 Leadership Lessons of Steve Kerr](https://www.si.com/nba/2017/05/16/steve-kerr-nba-playoffs-golden-state-warriors-injury-leadership)
+* [The Brilliance of Ron Adams: The Coach's Coach](https://www.si.com/nba/2017/06/06/ron-adams-warriors-defense-nba-playoffs-steve-kerr-brad-stevens-tom-thibodeau)
 
 ### Videos
 Videos that have provoked thought, uplifted, or otherwise inspired me in some way. 
