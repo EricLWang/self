@@ -122,6 +122,7 @@ Individual themes that guide my life.
 * Who your are, your character, is not the person you are in those "special" or "extraordinary" moments. Who you are is who you are in the most mundane parts of your life, when you're not even thinking. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
 * As soon as you think you're mentally / emotionally / spiritually ready for an experience that you think could have a transformative impact on your life, do it ASAP. 
+* You only have to be truly, intensely serious about a couple of things in life. Taking that to heart in turn frees you to be silly, carefree, and fun-loving towards everything else.
 * Take your time and work hard. **Don't take shortcuts**. 
 * Success is working hard / learning fast / treating people right. 
 * The best way to find happiness and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
@@ -210,7 +211,7 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] Build a Treehouse
 
 ### My writing
-Stuff that I've written that means something to me. Embarrassingly enough, this section is currently empty in deliberate hopes that this scenario will incentivize me to change that. TBD. 
+* [Lightning in a Bottle: A Silly, Transformative Adventure](https://medium.com/@ericlwang/lightning-in-a-bottle-2017-a-silly-transformative-adventure-47f957072d2e)
 
 ## Changelog 
 
