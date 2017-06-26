@@ -159,6 +159,8 @@ Videos that have provoked thought, uplifted, or otherwise inspired me in some wa
 * [Tim Minchin UWA Commencement Address 2013](https://www.youtube.com/watch?v=yoEezZD71sc&t=426s) 
 * [Randy Pausch's Last Lecture - Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
 * [Jim Valvano 1993 ESPY Speech](https://www.youtube.com/watch?v=HuoVM9nm42E)
+* [Dreams Die When You Wake Up - Rory Kramer](https://www.youtube.com/watch?v=yig6YP7TEI0)
+* [Just Be Yourself - Rory Kramer](https://www.youtube.com/watch?v=V9pEDBGWIMI)
 
 ### Books 
 Each of these books has reconfigured how I view the world.
