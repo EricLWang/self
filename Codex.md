@@ -13,7 +13,7 @@
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
 2. Read the [Contextualization](#contextualization) for a general introduction to the purpose of this document/exercise, then come back and read through the [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
-4. Reach out! [Email](mailto:ericlwang94@gmail.com) [Facebook](https://www.facebook.com/EricLorenWang)
+4. Reach out! [Email](mailto:ericlwang94@gmail.com) / [Facebook](https://www.facebook.com/EricLorenWang)
 
 ## Table of Contents
 
@@ -110,23 +110,23 @@ Individual themes that guide my life.
 * Strive for **Quality** in work or play. 
 * It is impossible to ever occupy any moment but the present. 
 * Maximizing the number and duration of flow states in life is a desirible and important goal. 
-* Drive towards productive friction. This is where growth is found. 
+* Productive friction is where maximum growth is found. 
 * The physical world around you is always better than the virtual one in your pocket. 
 * Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
-* If viewing your relationships as a graph, the sum of **[# of edges * weight]** of that graph is a strong indicator for happiness and fulfillment, and should be prioritized. 
+* Viewing your relationships as a graph, the sum of **[# of edges * weight]** is a strong indicator for happiness and fulfillment, and should be prioritized. 
 * A true friendship cannot be forged without conflict.
 * Similarly, life only has the potential to be awesome and incredible if it is also sometimes shitty and horrible. 
 * Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
 * Accountability is strongest in pairs
 * Excercise is crucial for the mind and spirit. 
-* Who your are, your character, is not the person you are in those "special" or "extraordinary" moments. Who you are is who you are in the most mundane parts of your life, when you're not even thinking. 
+* Your character is not the person you are in those "special" or "extraordinary" moments, but in the most mundane parts of your life, when you're not even thinking. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
 * As soon as you think you're mentally / emotionally / spiritually ready for an experience that you think could have a transformative impact on your life, do it ASAP. 
 * You only have to be truly, intensely serious about a couple of things in life. Taking that to heart in turn frees you to be silly, carefree, and fun-loving towards everything else.
 * Take your time and work hard. **Don't take shortcuts**. 
 * Success is working hard / learning fast / treating people right. 
-* The best way to find happiness and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
-* Step up and be **instigator in a positive world**. 
+* The best way to find joy and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
+* Instigate in a positive way. 
 * The people in your life are first, last, and everything in between, in different forms. 
 * Be Epic. 
 
@@ -177,14 +177,13 @@ If a playlist could define a human being (which I believe they can), this one wo
 * [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) - Frank Ocean 
 * [715 - CR∑∑KS](https://www.youtube.com/watch?v=P_Fx1yq3A8M) - Bon Iver
 * [Innerbloom](https://www.youtube.com/watch?v=IA1liCmUsAM) - Rufus du Sol 
-* [Without You](https://www.youtube.com/watch?v=zLAhRiUeJ8E) - Oh Wonder
-* [Family Business](https://open.spotify.com/track/6wFxUq7Gr44N3uwLjVQRR0) - Kanye West
 * [Ocean Drive](https://www.youtube.com/watch?v=KDxJlW6cxRk) - Duke Dumont 
 * [No Less](https://www.youtube.com/watch?v=H0bfwEjdgQs) - SG Lewis
 * [Loud Places](https://www.youtube.com/watch?v=TP9luRtEqjc) - Jamie XX 
 * [Sad Machine](https://www.youtube.com/watch?v=HAIDqt2aUek) - Porter Robinson
 * [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) - Frank Ocean
-* [On The Beach](https://open.spotify.com/track/0psrSwsDcH2R2xzMSO4wxo) - Nora En Pure
+* [Redbone](https://open.spotify.com/track/3kxfsdsCpFgN412fpnW85Y) - Childish Gambino
+* [Good Nights](https://open.spotify.com/track/36fRbuu9QkKVDR1j7jTI2U) - Whethan
 
 ### Experiences
 Experiences that have had a pivotal impact on my life.
@@ -212,6 +211,7 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] Learn to Sail 
 * [  ] Learn to Mix Music
 * [  ] Build a Treehouse
+* [  ] See the Nothern Lights
 
 ### My writing
 * [Lightning in a Bottle: A Silly, Transformative Adventure](https://medium.com/@ericlwang/lightning-in-a-bottle-2017-a-silly-transformative-adventure-47f957072d2e)
@@ -220,4 +220,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified June 2, 2017]
+[Last modified July 5, 2017]
