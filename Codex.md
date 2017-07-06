@@ -138,7 +138,7 @@ How I believe society should be structured.
 * Marijuana should be legal everywhere. 
 * Free college education should be available to all who want it. 
 * The instinctive reaction towards the homeless should be compassion, not fear.
-* We should all practice asking better questions. Small talk is lazy. 
+* We should all practice asking better questions. **Small talk is lazy.**
 * People should show love, appreciation, and gratitude more frequently, and more intensely.
 
 ## Personal Canon
@@ -188,6 +188,7 @@ If a playlist could define a human being (which I believe they can), this one wo
 ### Experiences
 Experiences that have had a pivotal impact on my life.
 
+* Public Speaking Lessons in 10th grade Changed My Life
 * [Spark SC](http://sparksc.org/)
 * [THTR 122: Improvisation and Theatre Games with Eric Trules at USC](https://classes.usc.edu/term-20161/course/thtr-122/)
 * Living @ 2646 Menlo with 10 Brothers
