@@ -88,7 +88,7 @@ Thoughts regarding spirituality.
 * God as in the capital "G" entity from organized religion does not exist, but some other kind of higher power does. 
 * Life is ultimately experienced alone. 
 * There are no coincidences - everything happens for a reason. 
-* Thought an intensely complex experience/machine, life is ultimately an input-output machine, with drastically varying output horizon lengths. 
+* Though an intensely complex experience/machine, life is ultimately an input-output machine, with drastically varying output horizon lengths. 
 * "We're talking monkeys on an organic spaceship flying through the universe" - Joe Rogan 
 
 #### 2C E&R: Explanatory
@@ -108,7 +108,7 @@ Individual themes that guide my life.
 * Music is an essential part of the human experience.
 * Your word is your external value. Deploy it meticulously and give it earnestly. 
 * Strive for **Quality** in work or play. 
-* It is impossible to ever occupy any moment but the present. 
+* It is impossible to ever occupy any moment but the present. (Wherever you go, there you are) 
 * Maximizing the number and duration of flow states in life is a desirible and important goal. 
 * Productive friction is where maximum growth is found. 
 * The physical world around you is always better than the virtual one in your pocket. 
@@ -221,4 +221,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified July 5, 2017]
+[Last modified July 22, 2017]
