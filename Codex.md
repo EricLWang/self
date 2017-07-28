@@ -161,6 +161,7 @@ Videos that have provoked thought, uplifted, or otherwise inspired me in some wa
 * [Jim Valvano 1993 ESPY Speech](https://www.youtube.com/watch?v=HuoVM9nm42E)
 * [Dreams Die When You Wake Up - Rory Kramer](https://www.youtube.com/watch?v=yig6YP7TEI0)
 * [Just Be Yourself - Rory Kramer](https://www.youtube.com/watch?v=V9pEDBGWIMI)
+* [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 
 ### Books 
 Each of these books has reconfigured how I view the world.
@@ -221,4 +222,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified July 22, 2017]
+[Last modified July 28, 2017]
