@@ -130,6 +130,7 @@ Individual themes that guide my life.
 * The people in your life are first, last, and everything in between, in different forms. 
 * Courage, not confidence, is what is required to start - confident is self-created.
 * The mindset determines the energy level
+* Break one of your rules, and you're infinitely more likely to break all of them
 * Be Epic. 
 
 #### 3B: I&S - We
