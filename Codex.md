@@ -128,6 +128,8 @@ Individual themes that guide my life.
 * The best way to find joy and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
 * Instigate in a positive way. 
 * The people in your life are first, last, and everything in between, in different forms. 
+* Courage, not confidence, is what is required to start - confident is self-created.
+* The mindset determines the energy level
 * Be Epic. 
 
 #### 3B: I&S - We
@@ -222,4 +224,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified July 28, 2017]
+[Last modified August 7, 2017]
