@@ -105,29 +105,38 @@ Beliefs that inform how I strive to live my life and how we should collectively 
 #### 3A: I&S - Me
 Individual themes that guide my life.
 
-* Music is an essential part of the human experience.
-* Your word is your external value. Deploy it meticulously and give it earnestly. 
-* Strive for **Quality** in work or play. 
-* It is impossible to ever occupy any moment but the present. (Wherever you go, there you are) 
-* Maximizing the number and duration of flow states in life is a desirible and important goal. 
+#### i. Growth 
 * Productive friction is where maximum growth is found. 
-* The physical world around you is always better than the virtual one in your pocket. 
-* Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
-* Viewing your relationships as a graph, the sum of **[# of edges * weight]** is a strong indicator for happiness and fulfillment, and should be prioritized. 
-* A true friendship cannot be forged without conflict.
-* Similarly, life only has the potential to be awesome and incredible if it is also sometimes shitty and horrible. 
-* Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
-* Accountability is strongest in pairs
-* Excercise is crucial for the mind and spirit. 
-* Your character is not the person you are in those "special" or "extraordinary" moments, but in the most mundane parts of your life, when you're not even thinking. 
-* One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
 * As soon as you think you're mentally / emotionally / spiritually ready for an experience that you think could have a transformative impact on your life, do it ASAP. 
+* Maximizing the number and duration of flow states in life is a desirible and important goal. 
+
+#### ii. Mindfulness
+* It is impossible to ever occupy any moment but the present. (Wherever you go, there you are) 
+* Your character is not the person you are in those "special" or "extraordinary" moments, but in the most mundane parts of your life, when you're not even thinking. 
 * You only have to be truly, intensely serious about a couple of things in life. Taking that to heart in turn frees you to be silly, carefree, and fun-loving towards everything else.
-* Take your time and work hard. **Don't take shortcuts**. 
-* Success is working hard / learning fast / treating people right. 
-* The best way to find joy and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
+* The physical world around you is always better than the virtual one in your pocket. 
+* One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then take it.
+* Life only has the potential to be awesome and incredible if it is also sometimes shitty and horrible. 
+
+#### iii. People
+* Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
+* A true friendship cannot be forged without conflict.
+* Accountability is strongest in pairs
+* Viewing your relationships as a graph, the sum of **[# of edges * weight]** is a strong indicator for happiness and fulfillment, and should be prioritized. 
 * Instigate in a positive way. 
 * The people in your life are first, last, and everything in between, in different forms. 
+
+#### iv. Producing Quality
+* Strive for **Quality** in work or play. 
+* Take your time and work hard. **Don't take shortcuts**. 
+* The best way to find joy and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
+* Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
+* Your word is your external value. Deploy it meticulously and give it earnestly. 
+* Excercise is crucial for the mind and spirit. 
+* Success is working hard / learning fast / treating people right. 
+
+### v. Reminders to Self
+* Music is an essential part of the human experience.
 * Courage, not confidence, is what is required to start - confident is self-created.
 * The mindset determines the energy level
 * Break one of your rules, and you're infinitely more likely to break all of them
