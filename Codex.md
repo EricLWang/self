@@ -135,7 +135,7 @@ Individual themes that guide my life.
 * Excercise is crucial for the mind and spirit. 
 * Success is working hard / learning fast / treating people right. 
 
-### v. Reminders to Self
+#### v. Reminders to Self
 * Music is an essential part of the human experience.
 * Courage, not confidence, is what is required to start - confident is self-created.
 * The mindset determines the energy level
@@ -234,4 +234,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified August 7, 2017]
+[Last modified August 11, 2017]
