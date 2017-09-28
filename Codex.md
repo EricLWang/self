@@ -145,6 +145,7 @@ Individual themes that guide my life.
 * The mindset determines the energy level
 * Break one of your rules, and you're infinitely more likely to break all of them
 * Own it or fix it.
+* Have determination and persistence for the things you can control, patience for the things you can't.
 * There are **very** few things in life worth getting stressed or upset about
 * There are **infinite** things in life to be happy and appreciative about. Act accordingly. 
 * Be Epic. 
