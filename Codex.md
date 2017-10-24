@@ -172,6 +172,7 @@ Writing that has influenced how I think, act, live, or commmunicate.
 * [The 25 Leadership Lessons of Steve Kerr](https://www.si.com/nba/2017/05/16/steve-kerr-nba-playoffs-golden-state-warriors-injury-leadership)
 * [The Brilliance of Ron Adams: The Coach's Coach](https://www.si.com/nba/2017/06/06/ron-adams-warriors-defense-nba-playoffs-steve-kerr-brad-stevens-tom-thibodeau)
 * [You Can't Fake It](https://medium.com/@freddiedeboer/you-cant-fake-it-cf31438b428f)
+* [Wealth - Paul Graham](http://paulgraham.com/wealth.html) 
 
 ### Videos
 Videos that have provoked thought, uplifted, or otherwise inspired me in some way. 
