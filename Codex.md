@@ -132,7 +132,7 @@ Individual themes that guide my life.
 
 #### iv. Producing Quality
 * Strive for **Quality** in work or play. 
-* Never compromise Quality for the sake of Velocity 
+* Never compromise Quality for the sake of velocity 
 * The best way to find joy and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
 * Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
 * Your word is your external value. Deploy it meticulously and give it earnestly. 
@@ -142,6 +142,7 @@ Individual themes that guide my life.
 #### v. Reminders to Self
 * Music is an essential part of the human experience.
 * Courage, not confidence, is what is required to start - confidence is self-created after the fact.
+* Saying and receiving no is a muscle that needs to be regularly and judiciously exercised
 * The mindset determines the energy level
 * Break one of your rules, and you're infinitely more likely to break all of them
 * Own it or fix it.
@@ -210,7 +211,6 @@ If a playlist could define a human being (which I believe they can), this one wo
 * [Good Nights](https://open.spotify.com/track/36fRbuu9QkKVDR1j7jTI2U) - Whethan
 * [Unforgiven - Presets Remix](https://soundcloud.com/rufussounds/unforgiven-the-presets-remix-1?in=ericlwang/sets/autmn) - Rufus du Sol
 
-
 ### Experiences
 Experiences that have had a pivotal impact on my life.
 
@@ -242,9 +242,10 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 ### My writing
 * [Lightning in a Bottle: A Silly, Transformative Adventure](https://medium.com/@ericlwang/lightning-in-a-bottle-2017-a-silly-transformative-adventure-47f957072d2e)
+* [Snapsheet: A True Meritocracy](https://medium.com/@Snapsheet/how-working-with-snapsheet-kickstarted-my-career-173cc7380467)
 
 ## Changelog 
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified September 28, 2017]
+[Last modified November 13, 2017]
