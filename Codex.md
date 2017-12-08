@@ -149,6 +149,7 @@ Individual themes that guide my life.
 * Have determination and persistence for the things you can control, patience for the things you can't.
 * There are **very** few things in life worth getting stressed or upset about
 * There are **infinite** things in life to be happy and appreciative about. Act accordingly. 
+* It's okay, and productive, to be selfish some times
 * Be Epic. 
 
 #### 3B: I&S - We
@@ -243,6 +244,7 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 ### My writing
 * [Lightning in a Bottle: A Silly, Transformative Adventure](https://medium.com/@ericlwang/lightning-in-a-bottle-2017-a-silly-transformative-adventure-47f957072d2e)
 * [Snapsheet: A True Meritocracy](https://medium.com/@Snapsheet/how-working-with-snapsheet-kickstarted-my-career-173cc7380467)
+* [Random Personal Bloggings](https://ericlwang.github.io/)
 
 ## Changelog 
 
