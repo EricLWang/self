@@ -1,4 +1,4 @@
-## Codex Vitae [1.3] 
+## Codex Vitae [2.0] 
 
 ### Instructions
 
@@ -13,7 +13,7 @@
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
 2. Read the [Contextualization](#contextualization) for an introduction to the purpose of this document/exercise, then come back and read through [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
-4. Reach out! [Email](mailto:ericlwang94@gmail.com) / [Facebook](https://www.facebook.com/EricLWang94)
+4. Reach out! [Email](mailto:ericlwang94@gmail.com) / [Instagram](https://www.instagram.com/ericlwang/)
 
 ## Table of Contents
 
@@ -36,6 +36,7 @@
 - [Music](#music)
 - [Experiences](#experiences)
 - [Writing](#writing)
+- [Yearly Themes](#yearly-themes)
 
 #### Changelog
 
@@ -183,7 +184,6 @@ Videos that have provoked thought, uplifted, or otherwise inspired me in some wa
 * [Randy Pausch's Last Lecture - Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
 * [Jim Valvano 1993 ESPY Speech](https://www.youtube.com/watch?v=HuoVM9nm42E)
 * [Dreams Die When You Wake Up - Rory Kramer](https://www.youtube.com/watch?v=yig6YP7TEI0)
-* [Just Be Yourself - Rory Kramer](https://www.youtube.com/watch?v=V9pEDBGWIMI)
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 
 ### Books 
@@ -232,12 +232,13 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] Attend a World Series game
 * [  ] Attend an NBA Finals game 
 * [  ] Burning Man
+* [  ] Shambala
 * [  ] Give a TED talk. Topic TBD.
 * [  ] Run a marathon
 * [  ] Complete a triathlon 
 * [  ] Get my pilot's license 
 * [  ] Learn to Sail 
-* [  ] Learn to Mix Music
+* [ x ] Learn to Mix Music
 * [  ] Build a Treehouse
 * [  ] See the Nothern Lights
 
@@ -246,8 +247,11 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [Snapsheet: A True Meritocracy](https://medium.com/@Snapsheet/how-working-with-snapsheet-kickstarted-my-career-173cc7380467)
 * [Random Personal Bloggings](https://ericlwang.github.io/)
 
+### Yearly Themes
+* [2018](https://ericlwang.github.io/2018/01/07/05.-2018-themes.html)
+
 ## Changelog 
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified November 13, 2017]
+[Last modified January 7, 2018]
