@@ -176,6 +176,7 @@ Writing that has influenced how I think, act, live, or commmunicate.
 * [The Brilliance of Ron Adams: The Coach's Coach](https://www.si.com/nba/2017/06/06/ron-adams-warriors-defense-nba-playoffs-steve-kerr-brad-stevens-tom-thibodeau)
 * [You Can't Fake It](https://medium.com/@freddiedeboer/you-cant-fake-it-cf31438b428f)
 * [Wealth - Paul Graham](http://paulgraham.com/wealth.html) 
+* [Riding Your Brain Bicycle - Venkat Rao (Breaking Smart)](http://mailchi.mp/ribbonfarm/how-to-ride-your-brain-bicycle?e=727e952173)
 
 ### Videos
 Videos that have provoked thought, uplifted, or otherwise inspired me in some way. 
