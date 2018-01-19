@@ -179,6 +179,7 @@ Writing that has influenced how I think, act, live, or commmunicate.
 * [Riding Your Brain Bicycle - Venkat Rao (Breaking Smart)](http://mailchi.mp/ribbonfarm/how-to-ride-your-brain-bicycle?e=727e952173)
 * [Ask Polly: Why am I Lazy?](https://www.thecut.com/2018/01/ask-polly-why-am-i-so-lazy.html?utm_source=hackernewsletter&utm_medium=email&utm_term=cutting_room_floor)
 * [Your Smartphone is Making You Stupid](https://www.theglobeandmail.com/technology/your-smartphone-is-making-you-stupid/article37511900/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+* [How to Be Perfectly Unhappy](http://theoatmeal.com/comics/unhappy)
 
 ### Videos
 Videos that have provoked thought, uplifted, or otherwise inspired me in some way. 
