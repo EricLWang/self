@@ -1,4 +1,4 @@
-## Codex Vitae [2.0] 
+## Codex Vitae [2.2.0] 
 
 ### Instructions
 
@@ -77,7 +77,7 @@ Personal constraints and biases.
 * These incomplete models are treated internally as complete, which is as it should be. Healthy exploration of the incompleteness of our models is evidence of rigorous thinking, but too much can be paralyzing and anxiety-inducing. 
 * Free will is an illusion, but it doesn't really matter anyways. 
 * Nontrivial behavior change is drastically easier when the external environment is changed. 
-* Nontrivial behavior change is a hyperrealism + determination
+* Nontrivial behavior change is a combination of hyperrealism + determination
 * [False Consensus](https://en.wikipedia.org/wiki/False_consensus_effect) is particularly dangerous as an underminer of compassion and complexity. 
 * Enjoying your life is a choice. 
 * We will die. 
@@ -91,14 +91,13 @@ Thoughts regarding spirituality.
 * Life is experienced alone. 
 * There are no coincidences - everything happens for a reason. 
 * Though a complex experience/machine, life is an input-output machine, with drastically varying output horizon lengths. 
-* "We're talking monkeys on an organic spaceship flying through the universe" - Joe Rogan 
 
 #### 2C E&R: Explanatory
 Science, politics, and the universe.
 
 * Time is only a useful concept to prevent from being late to appointments. 
 * Multiple dimensions and universes exist. 
-* Overpopulation is mankind's most pressing and challenging problem. 
+* Overpopulation is one of mankind's most pressing and challenging problem. 
 * Aliens exist, and already know that we do too. 
 * It does not matter whether or not we are alone in the universe.
 
@@ -176,10 +175,11 @@ Writing that has influenced how I think, act, live, or commmunicate.
 * [The Brilliance of Ron Adams: The Coach's Coach](https://www.si.com/nba/2017/06/06/ron-adams-warriors-defense-nba-playoffs-steve-kerr-brad-stevens-tom-thibodeau)
 * [You Can't Fake It](https://medium.com/@freddiedeboer/you-cant-fake-it-cf31438b428f)
 * [Wealth - Paul Graham](http://paulgraham.com/wealth.html) 
-* [Riding Your Brain Bicycle - Venkat Rao (Breaking Smart)](http://mailchi.mp/ribbonfarm/how-to-ride-your-brain-bicycle?e=727e952173)
 * [Ask Polly: Why am I Lazy?](https://www.thecut.com/2018/01/ask-polly-why-am-i-so-lazy.html?utm_source=hackernewsletter&utm_medium=email&utm_term=cutting_room_floor)
 * [Your Smartphone is Making You Stupid](https://www.theglobeandmail.com/technology/your-smartphone-is-making-you-stupid/article37511900/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 * [How to Be Perfectly Unhappy](http://theoatmeal.com/comics/unhappy)
+* [Metamodernism 101](https://medium.com/just-words/metamodernism-101-8cdb8563e0)
+* [Metamodernist Manifesto](http://www.metamodernism.org/)
 
 ### Videos
 Videos that have provoked thought, uplifted, or otherwise inspired me in some way. 
@@ -187,7 +187,6 @@ Videos that have provoked thought, uplifted, or otherwise inspired me in some wa
 * [Tim Minchin UWA Commencement Address 2013](https://www.youtube.com/watch?v=yoEezZD71sc&t=426s) 
 * [Randy Pausch's Last Lecture - Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
 * [Jim Valvano 1993 ESPY Speech](https://www.youtube.com/watch?v=HuoVM9nm42E)
-* [Dreams Die When You Wake Up - Rory Kramer](https://www.youtube.com/watch?v=yig6YP7TEI0)
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 
 ### Books 
@@ -258,4 +257,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified January 7, 2018]
+[Last modified February 15, 2018]
