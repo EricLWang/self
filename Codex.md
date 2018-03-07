@@ -173,7 +173,6 @@ Writing that has influenced how I think, act, live, or commmunicate.
 * [The Tail End - Tim Urban](http://waitbutwhy.com/2015/12/the-tail-end.html) 
 * [The 25 Leadership Lessons of Steve Kerr](https://www.si.com/nba/2017/05/16/steve-kerr-nba-playoffs-golden-state-warriors-injury-leadership)
 * [The Brilliance of Ron Adams: The Coach's Coach](https://www.si.com/nba/2017/06/06/ron-adams-warriors-defense-nba-playoffs-steve-kerr-brad-stevens-tom-thibodeau)
-* [You Can't Fake It](https://medium.com/@freddiedeboer/you-cant-fake-it-cf31438b428f)
 * [Wealth - Paul Graham](http://paulgraham.com/wealth.html) 
 * [Ask Polly: Why am I Lazy?](https://www.thecut.com/2018/01/ask-polly-why-am-i-so-lazy.html?utm_source=hackernewsletter&utm_medium=email&utm_term=cutting_room_floor)
 * [Your Smartphone is Making You Stupid](https://www.theglobeandmail.com/technology/your-smartphone-is-making-you-stupid/article37511900/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
