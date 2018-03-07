@@ -1,4 +1,4 @@
-## Codex Vitae [2.2.0] 
+## Codex Vitae [2.3.0] 
 
 ### Instructions
 
@@ -6,7 +6,7 @@
 
 1. As frequently as possible, re-read your [Type 3 Beliefs](#type-3-individuals-and-systems) (individuals and systems).
 2. At the beginning of each month, read this whole thing and make any necessary edits. 
-3. At the beginning of each year, archive the document. This **[2017]** is the first.
+3. At the beginning of each year, archive the document. This **[2018]** is the second.
 
 **If you aren't Eric:**
 
@@ -58,6 +58,7 @@ My beliefs about beliefs.
 - The purpose of this document is to capture my beliefs, allowing me to deepen my awareness and understanding of myself and the world around me 
 - Beliefs should be held with conviction, but also with an open-mindedness that permits change **[Strong opinions, weakly held]** 
 - Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
+- Beliefs can and often do exist in juxtaposition and oscillation **[metamodernism]**
 - Sharing this document *[passively]* is a great facilitator for genuine connection. 
 - Maintaining this document is a rewarding introspective endeavor.
 - Externally recording my rules and beliefs frees up mental bandwidth. 
@@ -86,11 +87,11 @@ Personal constraints and biases.
 Thoughts regarding spirituality. 
 
 * Meaning is *created* subjectively, not *found* objectively. 
-* Frequently remembering we will die increases the quality of life. 
+* Periodically remembering we will die increases the quality of life. 
 * God (capital "G" of organized religion fame) does not exist, but some other kind of higher power does. 
-* Life is experienced alone. 
-* There are no coincidences - everything happens for a reason. 
 * Though a complex experience/machine, life is an input-output machine, with drastically varying output horizon lengths. 
+* There are no coincidences - everything happens for a reason. 
+* Life is experienced alone.
 
 #### 2C E&R: Explanatory
 Science, politics, and the universe.
@@ -114,15 +115,15 @@ Individual themes that guide my life.
 * Hyperrealism, Radical Open-mindedness, and Determination are the key drivers of velocity for productive change. 
 
 #### ii. Mindfulness
-* It is impossible to ever occupy any moment but the present. (Wherever you go, there you are) 
+* It is impossible to ever occupy any moment but the present. 
 * Your character is not the person you are in those "special" or "extraordinary" moments, but in the most mundane parts of your life, when you're not even thinking. 
 * You only have to be truly, intensely serious about a couple of things in life. Taking that to heart frees you to be silly, carefree, and fun-loving towards everything else.
 * The physical world around you is always better than the virtual one in your pocket. 
-* One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend. Then taking it.
+* One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend, then taking it.
 * Life only has the potential to be awesome and incredible if it is also sometimes shitty and horrible. 
 
 #### iii. People
-* Every stranger is a friend waiting to happen, until they prove otherwise [People are inherently good]. 
+* Every stranger is a friend waiting to happen, until they prove otherwise **[People are inherently good]**. 
 * A true friendship cannot be forged without conflict.
 * Accountability is strongest in pairs
 * Viewing your relationships as a graph, the sum of **[# of edges * weight]** is a strong indicator for happiness and fulfillment, and should be prioritized. 
@@ -131,13 +132,12 @@ Individual themes that guide my life.
 * The people in your life are first, last, and everything in between, in different forms. 
 
 #### iv. Producing Quality
-* Strive for **Quality** in work or play. 
+* Strive for **Quality** in work and in play. 
 * Never compromise Quality for the sake of velocity 
 * The best way to find joy and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
 * Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
 * Your word is your external value. Deploy it meticulously and give it earnestly. 
 * Excercise is crucial for the mind and spirit. 
-* Success is working hard / learning fast / treating people right. 
 
 #### v. Reminders to Self
 * Music is an essential part of the human experience.
@@ -257,4 +257,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified February 15, 2018]
+[Last modified March 7, 2018]
