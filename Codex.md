@@ -1,4 +1,4 @@
-## Codex Vitae [2.3.0] 
+## Codex Vitae [v2.4.0] 
 
 ### Instructions
 
@@ -79,6 +79,7 @@ Personal constraints and biases.
 * Free will is an illusion, but it doesn't really matter anyways. 
 * Nontrivial behavior change is drastically easier when the external environment is changed. 
 * Nontrivial behavior change is a combination of hyperrealism + determination
+* The greater individual challenge is not awareness of your negative behavior patterns but breaking those loops
 * [False Consensus](https://en.wikipedia.org/wiki/False_consensus_effect) is particularly dangerous as an underminer of compassion and complexity. 
 * Enjoying your life is a choice. 
 * We will die. 
@@ -117,6 +118,7 @@ Individual themes that guide my life.
 #### ii. Mindfulness
 * It is impossible to ever occupy any moment but the present. 
 * Your character is not the person you are in those "special" or "extraordinary" moments, but in the most mundane parts of your life, when you're not even thinking. 
+* In other words, you don't rise to the occasion - you sink to your level of training
 * You only have to be truly, intensely serious about a couple of things in life. Taking that to heart frees you to be silly, carefree, and fun-loving towards everything else.
 * The physical world around you is always better than the virtual one in your pocket. 
 * One of the best things you can do is to give yourself advice as a 3rd party observer, as if speaking to a close friend, then taking it.
@@ -238,6 +240,8 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] Give a TED talk. Topic TBD.
 * [  ] Run a marathon
 * [  ] Complete a triathlon 
+* [  ] Complete a half Iron Man
+* [  ] Complete an Iron Man
 * [  ] Get my pilot's license 
 * [  ] Learn to Sail 
 * [ x ] Learn to Mix Music
@@ -256,4 +260,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified March 7, 2018]
+[Last modified April 1, 2018]
