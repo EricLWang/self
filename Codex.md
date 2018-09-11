@@ -1,4 +1,4 @@
-## Codex Vitae [v2.4.0] 
+## Codex Vitae [v2.9.0] 
 
 ### Instructions
 
@@ -92,7 +92,7 @@ Thoughts regarding spirituality.
 * God (capital "G" of organized religion fame) does not exist, but some other kind of higher power does. 
 * Though a complex experience/machine, life is an input-output machine, with drastically varying output horizon lengths. 
 * There are no coincidences - everything happens for a reason. 
-* Life is experienced alone.
+* Life is a solo experience.
 
 #### 2C E&R: Explanatory
 Science, politics, and the universe.
@@ -125,7 +125,6 @@ Individual themes that guide my life.
 * Life only has the potential to be awesome and incredible if it is also sometimes shitty and horrible. 
 
 #### iii. People
-* Every stranger is a friend waiting to happen, until they prove otherwise **[People are inherently good]**. 
 * A true friendship cannot be forged without conflict.
 * Accountability is strongest in pairs
 * Viewing your relationships as a graph, the sum of **[# of edges * weight]** is a strong indicator for happiness and fulfillment, and should be prioritized. 
@@ -239,7 +238,7 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] Shambala
 * [  ] Give a TED talk. Topic TBD.
 * [  ] Run a marathon
-* [  ] Complete a triathlon 
+* [ x ] Complete a triathlon 
 * [  ] Complete a half Iron Man
 * [  ] Complete an Iron Man
 * [  ] Get my pilot's license 
@@ -249,6 +248,8 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] See the Nothern Lights
 
 ### My writing
+* [Chicago Triathlon](https://ericlwang.github.io/2018/09/04/11.-Chicago-Triathlon.html)
+* [Scuba Dive State of Mind](https://ericlwang.github.io/2018/08/14/10.-Scuba-Dive-State-Of-Mind.html)
 * [Lightning in a Bottle: A Silly, Transformative Adventure](https://medium.com/@ericlwang/lightning-in-a-bottle-2017-a-silly-transformative-adventure-47f957072d2e)
 * [Snapsheet: A True Meritocracy](https://medium.com/@Snapsheet/how-working-with-snapsheet-kickstarted-my-career-173cc7380467)
 * [Random Personal Bloggings](https://ericlwang.github.io/)
@@ -260,4 +261,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified April 1, 2018]
+[Last modified September 10, 2018]
