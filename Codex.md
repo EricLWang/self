@@ -11,7 +11,7 @@
 **If you aren't Eric:**
 
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
-2. Read the [Contextualization](#contextualization) for an introduction to the purpose of this document / exercise, then come back and read through [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and / or to get to know me better. 
+2. Read the [Contextualization](#contextualization) for an introduction to the purpose of this document exercise, then come back and read through [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and / or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
 4. Reach out! [Email](mailto:ericlwang94@gmail.com) / [Instagram](https://www.instagram.com/ericlwang/)
 
@@ -90,7 +90,7 @@ Thoughts regarding spirituality.
 * Meaning is *created* subjectively, not *found* objectively. 
 * Periodically remembering we will die increases the quality of life. 
 * God (capital "G" of organized religion fame) does not exist, but some other kind of higher power does. 
-* Though a complex experience/machine, life is an input-output machine, with drastically varying output horizon lengths. 
+* Though a complex experience / machine, life is an input-output machine, with drastically varying output horizon lengths. 
 * There are no coincidences - everything happens for a reason. 
 * Life is a solo experience.
 
@@ -136,7 +136,7 @@ Individual themes that guide my life.
 * Strive for **Quality** in work and in play. 
 * Never compromise Quality for the sake of velocity 
 * The best way to find joy and fulfillment is by constantly striving to add value to the people, places, and commmunities around you. 
-* Productivity/Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
+* Productivity / Effectiveness = **[Time * Intensity]**. This applies to both work and pleasure. Happiness and fulfillment follow a similar equation. 
 * Your word is your external value. Deploy it meticulously and give it earnestly. 
 * Excercise is crucial for the mind and spirit. 
 
