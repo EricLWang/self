@@ -1,4 +1,4 @@
-## Codex Vitae [v2.9.0] 
+## Codex Vitae [v2.10.0] 
 
 ### Instructions
 
@@ -11,7 +11,7 @@
 **If you aren't Eric:**
 
 1. Read this with the understanding that you are different than me - the way I live my life is not the way you should live yours.
-2. Read the [Contextualization](#contextualization) for an introduction to the purpose of this document/exercise, then come back and read through [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and/or to get to know me better. 
+2. Read the [Contextualization](#contextualization) for an introduction to the purpose of this document / exercise, then come back and read through [Beliefs](#beliefs) that seem interesting to you. Browse [Personal Canon](#personal-canon) for entertainment and / or to get to know me better. 
 3. Consider creating your own Codex. Use anything here that may be useful for you. 
 4. Reach out! [Email](mailto:ericlwang94@gmail.com) / [Instagram](https://www.instagram.com/ericlwang/)
 
@@ -35,7 +35,7 @@
 - [Books](#books)
 - [Music](#music)
 - [Experiences](#experiences)
-- [Writing](#writing)
+- [Writing](#my-writing)
 - [Yearly Themes](#yearly-themes)
 
 #### Changelog
@@ -111,7 +111,7 @@ Individual themes that guide my life.
 
 #### i. Growth 
 * Productive friction is where maximum growth is found. 
-* As soon as you think you're mentally / emotionally / spiritually ready for an experience that you think could have a transformative impact on your life, do it ASAP. 
+* As soon as you think you're mentally / emotionally / spiritually ready for an experience that you think could have a transformative impact on your life, do it ASAP. The cascading / compounding benefits and effects are invaluable. 
 * Maximizing the number and duration of flow states in life is a desirible and important goal. 
 * Hyperrealism, Radical Open-mindedness, and Determination are the key drivers of velocity for productive change. 
 
@@ -150,8 +150,7 @@ Individual themes that guide my life.
 * Have determination and persistence for the things you can control, patience for the things you can't.
 * There are **very** few things in life worth getting stressed or upset about
 * There are **infinite** things in life to be happy and appreciative about. Act accordingly. 
-* It's okay, and productive, to be selfish some times
-* Be Epic. 
+* It's okay, and productive, to be selfish sometimes
 
 #### 3B: I&S - We
 How I believe society should be structured.
@@ -163,6 +162,7 @@ How I believe society should be structured.
 * The instinctive reaction towards the homeless should be compassion, not fear.
 * We should all practice asking better questions. **Small talk is lazy.**
 * People should show love, appreciation, and gratitude more frequently, and more intensely.
+* Social media has its benefits, but is mostly a cancer on society. 
 
 ## Personal Canon
 
@@ -199,6 +199,7 @@ Each of these books has reconfigured how I view the world.
 * [The Zen Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469/ref=sr_1_1?ie=UTF8&qid=1484314028&sr=8-1&keywords=the+zen+art+of+motorcycle+maintenance) - Robert M. Pirsig
 * [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_1?ie=UTF8&qid=1506603151&sr=8-1&keywords=principles) - Ray Dalio 
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=sr_1_1?s=books&ie=UTF8&qid=1506603203&sr=1-1&keywords=sapiens) - Yuval Noah Harari
+* [Educated](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501/ref=sr_1_1?ie=UTF8&qid=1538447191&sr=8-1&keywords=educated+a+memoir) - Tara Westover
 
 ### Music
 If a playlist could define a human being (which I believe they can), this one would be me. 
@@ -214,6 +215,7 @@ If a playlist could define a human being (which I believe they can), this one wo
 * [Redbone](https://open.spotify.com/track/3kxfsdsCpFgN412fpnW85Y) - Childish Gambino
 * [Good Nights](https://open.spotify.com/track/36fRbuu9QkKVDR1j7jTI2U) - Whethan
 * [Unforgiven - Presets Remix](https://soundcloud.com/rufussounds/unforgiven-the-presets-remix-1?in=ericlwang/sets/autmn) - Rufus du Sol
+* [Underwater](https://open.spotify.com/track/04QZdz4g1qoDlPscXVXS1I?si=DUmf3G3hT4ODIgJfDz_7Cw) - Rufus du Sol
 
 ### Experiences
 Experiences that have had a pivotal impact on my life.
@@ -223,12 +225,14 @@ Experiences that have had a pivotal impact on my life.
 * [THTR 122: Improvisation and Theatre Games with Eric Trules at USC](https://classes.usc.edu/term-20161/course/thtr-122/)
 * Living @ 2646 Menlo with 10 Brothers
 * [Lightning In A Bottle](http://lightninginabottle.org/)
+* Diving the [Great Blue Hole](https://en.wikipedia.org/wiki/Great_Blue_Hole) in Belize
 
 ### Goals
 I don't currently believe in setting rigid long term goals, but here is a list of things I hope to transfer to Experiences. 
 
 * [  ] Publish a book
 * [  ] Live in Tokyo for at least 2 months
+* [  ] Climb Mt. Rainier
 * [  ] Climb Mt. Kilimanjaro 
 * [  ] Climb K2
 * [  ] Hike Patagonia 
@@ -237,6 +241,7 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 * [  ] Burning Man
 * [  ] Shambala
 * [  ] Give a TED talk. Topic TBD.
+* [  ] Run a half marathon
 * [  ] Run a marathon
 * [ x ] Complete a triathlon 
 * [  ] Complete a half Iron Man
@@ -261,4 +266,4 @@ I don't currently believe in setting rigid long term goals, but here is a list o
 
 * [History of Changes to this Document](https://github.com/EricLWang/self/commits/master/Codex.md)
 
-[Last modified September 10, 2018]
+[Last modified October 1, 2018]
