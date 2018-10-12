@@ -169,6 +169,7 @@ How I believe society should be structured.
 ### Articles 
 Writing that has influenced how I think, act, live, or commmunicate. 
 
+* [Today is My Wife's First Birthday Since She Died](https://medium.com/@webwright/today-is-my-wifes-first-birthday-since-she-died-7369944c43ec)
 * [Nihilist's Guide to Meaning](http://www.meltingasphalt.com/a-nihilists-guide-to-meaning/) (this doesn't mean I'm a Nihilist, but the ideas here resonate with me) 
 * [Breaking Smart Season 1](http://breakingsmart.com/en/season-1/) 
 * [The Tail End - Tim Urban](http://waitbutwhy.com/2015/12/the-tail-end.html) 
