@@ -1,4 +1,4 @@
-## Codex Vitae [v2.10.0] 
+## Codex Vitae [v2.11.0] 
 
 ### Instructions
 
@@ -125,7 +125,7 @@ Individual themes that guide my life.
 * Life only has the potential to be awesome and incredible if it is also sometimes shitty and horrible. 
 
 #### iii. People
-* A true friendship cannot be forged without conflict.
+* True friendship cannot be forged without conflict.
 * Accountability is strongest in pairs
 * Viewing your relationships as a graph, the sum of **[# of edges * weight]** is a strong indicator for happiness and fulfillment, and should be prioritized. 
 * Instigate in a positive way. 
@@ -217,6 +217,9 @@ If a playlist could define a human being (which I believe they can), this one wo
 * [Good Nights](https://open.spotify.com/track/36fRbuu9QkKVDR1j7jTI2U) - Whethan
 * [Unforgiven - Presets Remix](https://soundcloud.com/rufussounds/unforgiven-the-presets-remix-1?in=ericlwang/sets/autmn) - Rufus du Sol
 * [Underwater](https://open.spotify.com/track/04QZdz4g1qoDlPscXVXS1I?si=DUmf3G3hT4ODIgJfDz_7Cw) - Rufus du Sol
+* [All In Me](https://open.spotify.com/track/5F8uRYr7402vH9BMgltIca?si=5rFDy9n5TAGR2u9CfV8Ysw) - Jerry Folk
+* [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq?si=F5oKYx0GSAaD_sTYsxfiEw) - Zhu 
+* [Say My Name](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed?si=Mo_hiuJRRL2ALYb-GAeumA) - Odesza
 
 ### Experiences
 Experiences that have had a pivotal impact on my life.
